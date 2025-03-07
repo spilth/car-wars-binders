@@ -17,13 +17,13 @@ Build,Accessory,,1,,Splitter,1,Set 3
 Build,Accessory,,1,,Spoiler,2,Set 3
 Build,Accessory,,1,,Superbooster,2,Core
 Build,Accessory,,1,,Targeting Computer,1,Core
+Build,Accessory,,2,,Boost Cell,1,Gonzo
 Build,Accessory,,2,,Dynamic Suspension,1,Core
 Build,Accessory,,2,,High-Torque Differential,1,Set 4
 Build,Accessory,,2,,Radar Jammer,1,Uncle Al
 Build,Accessory,,2,,Rugged Suspension,3,Set 3
 Build,Accessory,,2,,Supplemental Power Cell,1,Uncle Al
 Build,Accessory,,2,,Thundercat Battery,1,Set 2
-Build,Accessory,,2,,Boost Cell,1,Gonzo
 Build,Structure,,0,,Cast Iron Plate A,3,Gonzo
 Build,Structure,,0,,Cast Iron Plate B,3,Gonzo
 Build,Structure,,0,,Cast Iron Plate C,3,Gonzo
@@ -47,29 +47,29 @@ Build,Structure,,4,,Kinetic Diffuser,7,Road
 Build,Structure,,4,,Super Heavy Ceramic Plate,8,Set 3
 Build,Structure,,4,,Super Heavy Steel Plate,4,Set 4
 Build,Upgrade,,0,,Fake Passenger,,Gonzo
+Build,Upgrade,,1,1,Weapons Locker,,Strike
+Build,Upgrade,,1,,Advanced Targeting Computer,,Gonzo
 Build,Upgrade,Wheels,1,,Airless Tires,,Set 1
 Build,Upgrade,Frame,1,,Bumper Spikes,,Set 1
 Build,Upgrade,,1,,Chassis Brace,,Core
+Build,Upgrade,,1,,Defibrillator,,Gonzo
 Build,Upgrade,Frame,1,,Flame Jets,,Set 4
 Build,Upgrade,,1,,Gyroscopic Stabilizer,,Set 4
 Build,Upgrade,Frame,1,,Punchbumper,,Drop
+Build,Upgrade,,1,,Racing Slicks,,Gonzo
 Build,Upgrade,Mount,1,,Reinforced Weapon Brackets,,Set 2
 Build,Upgrade,Frame,1,,Roll Bar,,Set 2
 Build,Upgrade,,1,,Stability Controller,,Crew
 Build,Upgrade,,1,,Wheel Guards,,Set 4
-Build,Upgrade,,1,1,Weapons Locker,,Strike
-Build,Upgrade,,1,,Advanced Targeting,,Gonzo
-Build,Upgrade,,1,,Defibrillator,,Gonzo
-Build,Upgrade,,1,,Racing Slicks,,Gonzo
 Build,Upgrade,Coating,2,,Active Camouflage,,Uncle Al
 Build,Upgrade,,2,,Cadmium Alloy Fasteners,,Uncle Al
 Build,Upgrade,,2,,High-Density Radials,,Core
 Build,Upgrade,,2,,Power Plant Shielding,2,Uncle Al
 Build,Upgrade,Wheels,2,,Run-Flat System,,Set 2
 Build,Upgrade,,2,,Safety Cage,,Core
+Build,Upgrade,,2,,Sticky Rubber,3,Gonzo
 Build,Upgrade,,2,,Strengthened Undercarriage,,Core
 Build,Upgrade,,2,,Wheel Hubs,2,Set 1
-Build,Upgrade,,2,,Sticky Rubber,3,Gonzo
 Build,Upgrade,Coating,3,,EM Distortion Field,,Armory
 Build,Upgrade,Coating,3,,Fire-Resistant Coating,,Uncle Al
 Build,Upgrade,Coating,3,,Laser-Reflective Coating,,Uncle Al
@@ -79,6 +79,7 @@ Build,Upgrade,,8,,Complex Concealment System,,Uncle Al
 Build,Weapon,Blast,1,,Amor-Piercing Rocket,1,Uncle Al
 Build,Weapon,Melee,1,,Brushcutter,1,Set 3
 Build,Weapon,Drop,1,,Concussion Mine Dropper,2,Drop
+Build,Weapon,Decoy,1,,Fake Machine Gun,2,Gonzo
 Build,Weapon,Drop,1,,Fire Mine Dropper,2,Drop
 Build,Weapon,Blast,1,,Firecracker,1,Set 2
 Build,Weapon,Drop,1,,Foam Nozzle,2,Drop
@@ -93,21 +94,23 @@ Build,Weapon,Slug,1,,Slingshot,2,Set 4
 Build,Weapon,Drop,1,,Smoke Emitter,2,Drop
 Build,Weapon,Drop,1,,Spike Dropper,2,Drop
 Build,Weapon,Shred,1,,Wasp,2,Set 4
-Build,Weapon,Decoy,1,,Fake Machine Gun,2,Gonzo
 Build,Weapon,Shred,2,,Armored Machine Gun,3,Uncle Al
+Build,Weapon,Slug,2,,Armored Recoiless Rifle,3,Strike
 Build,Weapon,Laser,2,,Electrolaser,1,Set 3
+Build,Weapon,Shock,2,,Electrostatic Beam,2,Strike
 Build,Weapon,Fire,2,,Flamethrower,2,Core
 Build,Weapon,Slug,2,,Javelin,2,Set 1
+Build,Weapon,Shock,2,,Joy Buzzer,3,Strike
 Build,Weapon,Melee,2,,Linked Brushcutters,1,Linked
 Build,Weapon,Shred,2,,Linked Shotguns,2,Linked
 Build,Weapon,Shred,2,,Standard Machine Gun,2,Armory
 Build,Weapon,Slug,2,,Standard Recoilless Rifle,2,Core
 Build,Weapon,Shred,2,,Stinger,2,Set 4
-Build,Weapon,Shock,2,,Electrostatic Beam,2,Strike
-Build,Weapon,Shock,2,,Joy Buzzer,3,Strike
-Build,Weapon,Slug,2,,Armored Recoiless Rifle,3,Strike
 Build,Weapon,Sonic,2,,Whistler,1,Strike
 Build,Weapon,Blast,3,,Anti-Power Plant Rocket,1,Uncle Al
+Build,Weapon,Shock,3,,Armored Disruptor,4,Strike
+Build,Weapon,Fire,3,,Armored Firebolt,3,Strike
+Build,Weapon,Laser,3,,Armored Particle Beam,2,Gonzo
 Build,Weapon,Melee,3,,Bonesaw,1,Set 1
 Build,Weapon,Shock,3,,Disruptor,3,Set 2
 Build,Weapon,Shred,3,,Heavy Machine Gun,2,Core
@@ -115,9 +118,11 @@ Build,Weapon,Slug,3,,Heavy Recoilless Rifle,2,Armory
 Build,Weapon,Slug,3,,Jackhammer,2,Set 3
 Build,Weapon,Shred,3,,Light Machine Gun - Incendiary Rounds,2,Set 3
 Build,Weapon,Fire,3,,Linked Flamethrowers,2,Linked
+Build,Weapon,Sonic,3,,Ol' Yeller,1,Strike
 Build,Weapon,Laser,3,,Particle Beam,1,Set 4
 Build,Weapon,Shred,3,,Scatter Gun,2,Set 1
 Build,Weapon,Shred,3,,Spike Gun,2,Uncle Al
+Build,Weapon,Fire,3,,Standard Incendiary Rocket,3,Strike
 Build,Weapon,Shred,3,,Standard Machine Gun - Tracer Rounds,2,Uncle Al
 Build,Weapon,Slug,3,,Standard Recoilless Rifle - Explosive Rounds,2,Uncle Al
 Build,Weapon,Blast,3,,Standard Rocket,1,Core
@@ -129,35 +134,31 @@ Build,Weapon,Blast,3,,Turreted Micro-Missile,2,Uncle Al
 Build,Weapon,Laser,3,,Turreted Particle Beam,3,Linked
 Build,Weapon,Slug,3,,Turreted Recoilless Rifle,4,Armory
 Build,Weapon,Shred,3,,Turreted Shotgun,3,Linked
-Build,Weapon,Fire,3,,Armored Firebolt,3,Strike
-Build,Weapon,Fire,3,,Standard Incendiary Rocket,3,Strike
-Build,Weapon,Shock,3,,Armored Disruptor,4,Strike
-Build,Weapon,Sonic,3,,Ol' Yeller,1,Strike
-Build,Weapon,Laser,3,,Armored Particle Beam,2,Gonzo
 Build,Weapon,Slug,4,,Anti-Tank Gun,2,Core
 Build,Weapon,Shock,4,,Arc Rifle,3,Set 2
 Build,Weapon,Fire,4,,Fire Lance,2,Set 2
+Build,Weapon,Melee,4,,Flamesaw,1,Gonzo
 Build,Weapon,Shred,4,,Linked Standard Machine Guns,2,Linked
+Build,Weapon,Blast,4,,Mako,2,Gonzo
 Build,Weapon,Laser,4,,Rapid-Cycle Laser,1,Set 2
 Build,Weapon,Shred,4,,Standard Machine Gun - Incendiary Rounds,2,Set 2
 Build,Weapon,Slug,4,,Stovepipe,2,Set 3
 Build,Weapon,Shred,4,,Vulcan,2,Armory
-Build,Weapon,Blast,4,,Mako,2,Gonzo
-Build,Weapon,Melee,4,,Flamesaw,1,Gonzo
 Build,Weapon,Shock,5,,Betatron,3,Set 4
+Build,Weapon,Melee,5,,Flail,1,Gonzo
 Build,Weapon,Slug,5,,Gator,2,Set 2
 Build,Weapon,Slug,5,,Gauss Cannon,2,Armory
 Build,Weapon,Shred,5,,Heavy Machine Gun - Incendiary Rounds,2,Set 4
+Build,Weapon,Sonic,5,,Howler,1,Strike
 Build,Weapon,Shock,5,,Linked Disruptors,3,Linked
 Build,Weapon,Shred,5,,Longbow,2,Uncle Al
 Build,Weapon,Laser,5,,Pulse Laser,1,Set 1
 Build,Weapon,Shred,5,,Ravager,2,Set 3
+Build,Weapon,Blast,5,,Roman Candle,1,Gonzo
 Build,Weapon,Shred,5,,Thresher,2,Core
 Build,Weapon,Laser,5,,Twin Laser,1,Uncle Al
-Build,Weapon,Sonic,5,,Howler,1,Strike
-Build,Weapon,Melee,5,,Flail,1,Gonzo
-Build,Weapon,Blast,5,,Roman Candle,1,Gonzo
 Build,Weapon,Shred,6,,Autocannon,2,Armory
+Build,Weapon,Sonic,6,,Big Whoop,1,Strike
 Build,Weapon,Slug,6,,Buffalo Gun,2,Core
 Build,Weapon,Blast,6,,Hammerhead,2,Set 3
 Build,Weapon,Fire,6,,Heat Saber,2,Core
@@ -165,8 +166,8 @@ Build,Weapon,Slug,6,,Linked Jackhammers,2,Linked
 Build,Weapon,Slug,6,,Mass Driver,2,Set 4
 Build,Weapon,Laser,6,,Supercooled Laser,1,Set 2
 Build,Weapon,Shock,6,,Thundergun,3,Set 4
-Build,Weapon,Sonic,6,,Big Whoop,1,Strike
 Build,Weapon,Melee,6,,Wrecking Ball,1,Gonzo
+Build,Weapon,Sonic,7,,Banshee,1,Strike
 Build,Weapon,Shred,7,,Grapeshot Cannon,2,Drop
 Build,Weapon,Shred,7,,Hellfire,2,Core
 Build,Weapon,Shock,7,,Lightning Scythe,3,Set 2
@@ -174,7 +175,6 @@ Build,Weapon,Laser,7,,Linked Pulse Lasers,1,Linked
 Build,Weapon,Laser,7,,Quad Laser,1,Set 4
 Build,Weapon,Slug,7,,Railgun,2,Armory
 Build,Weapon,Slug,7,,The Anvil,2,Set 1
-Build,Weapon,Sonic,7,,Banshee,1,Strike
 Build,Weapon,Slug,8,,Devastator,2,Core
 Build,Weapon,Slug,8,,Dreadnaught,2,Set 1
 Build,Weapon,Blast,8,,Heavy Rocket,1,Core
@@ -191,16 +191,16 @@ Crew,Driver,,,1,Mamba,3,Crew
 Crew,Driver,,,1,Slick,3,Gonzo
 Crew,Driver,,,1,Smokey,2,Gonzo
 Crew,Driver,,,2,Amateur,3,Core
+Crew,Driver,,,2,Hoon,4,Gonzo
+Crew,Driver,,,2,Leadfoot,3,Strike
 Crew,Driver,,,2,Possum,3,Crew
 Crew,Driver,,,2,Rhino,3,Uncle Al
-Crew,Driver,,,2,Leadfoot,3,Strike
-Crew,Driver,,,2,Hoon,4,Gonzo
+Crew,Driver,,,3,Burnout,3,Strike
 Crew,Driver,,,3,Medusa,3,Crew
 Crew,Driver,,,3,Scorpion,3,Crew
-Crew,Driver,,,3,Burnout,3,Strike
 Crew,Driver,,,4,Bandit,3,Crew
-Crew,Driver,,,4,Veteran,3,Core
 Crew,Driver,,,4,Turtle,3,Strike
+Crew,Driver,,,4,Veteran,3,Core
 Crew,Driver,,,5,Alpine,3,Crew
 Crew,Driver,,,5,Rockwolf,3,Crew
 Crew,Driver,,,6,Legend,3,Core
@@ -208,6 +208,7 @@ Crew,Driver,,,6,Ranger,3,Crew
 Crew,Gear,Vest,,0,Crash Suit,,Gonzo
 Crew,Gear,,,1,Driving Boots,,Crew
 Crew,Gear,Gloves,,1,Driving Gloves,,Crew
+Crew,Gear,Vest,,1,Fire Suit,,Strike
 Crew,Gear,,,1,First-Aid Kit,,Crew
 Crew,Gear,Vest,,1,Flak Jacket,,Core
 Crew,Gear,Optic,,1,Holographic Sight,,Core
@@ -215,20 +216,19 @@ Crew,Gear,,,1,HUD Goggles,,Crew
 Crew,Gear,Vest,,1,Plated Vest,,Uncle Al
 Crew,Gear,,,1,Steady-Aim Gimbal,,Uncle Al
 Crew,Gear,,,1,Taco,,Uncle Al
-Crew,Gear,Vest,,1,Fire Suit,,Strike
 Crew,Gunner,,,0,Hound,3,Crew
 Crew,Gunner,,,0,Rookie,3,Core
 Crew,Gunner,,,1,Hacker,3,Uncle Al
 Crew,Gunner,,,1,Whiplash,3,Crew
 Crew,Gunner,,,2,Amateur,3,Core
+Crew,Gunner,,,2,Blitz,3,Gonzo
 Crew,Gunner,,,2,Machete,3,Crew
+Crew,Gunner,,,2,Photon,2,Gonzo
 Crew,Gunner,,,2,Pyro,3,Uncle Al
+Crew,Gunner,,,2,Rowdy,4,Gonzo
 Crew,Gunner,,,2,Siren,3,Strike
 Crew,Gunner,,,2,Striker,3,Strike
 Crew,Gunner,,,2,Tex,3,Strike
-Crew,Gunner,,,2,Blitz,3,Gonzo
-Crew,Gunner,,,2,Photon,2,Gonzo
-Crew,Gunner,,,2,Rowdy,4,Gonzo
 Crew,Gunner,,,3,Grendel,3,Crew
 Crew,Gunner,,,3,Vandal,3,Crew
 Crew,Gunner,,,4,Monarch,3,Crew
@@ -239,19 +239,19 @@ Crew,Gunner,,,6,Fang,3,Crew
 Crew,Gunner,,,6,Legend,3,Core
 Crew,Sidearms,,,0,Hand Cannon,,Core
 Crew,Sidearms,,,1,Assault Rifle,,Core
+Crew,Sidearms,,,1,Blender,,Gonzo
 Crew,Sidearms,,,1,Bug Zapper,,Crew
 Crew,Sidearms,,,1,Concussion Grenades,,Crew
-Crew,Sidearms,,,1,Killstreak,,Crew
-Crew,Sidearms,,,1,Paint Grenades,,Drop
-Crew,Sidearms,,,1,Radar Transmitter,,Uncle Al
-Crew,Sidearms,,,1,Thermite Grenades,,Crew
+Crew,Sidearms,,,1,Doubleshot,,Strike
+Crew,Sidearms,,,1,Electrostatic Grenade,,Strike
 Crew,Sidearms,,,1,Fragmentation Grenade,,Strike
 Crew,Sidearms,,,1,Juicer,,Strike
-Crew,Sidearms,,,1,Doubleshot,,Strike
-Crew,Sidearms,,,1,Toaster,,Strike
-Crew,Sidearms,,,1,Electrostatic Grenade,,Strike
-Crew,Sidearms,,,1,Sawed-Off Shotgun,,Gonzo
-Crew,Sidearms,,,1,Blender,,Gonzo
 Crew,Sidearms,,,1,Katana,,Gonzo
+Crew,Sidearms,,,1,Killstreak,,Crew
 Crew,Sidearms,,,1,Micro-Rocket Launcher,,Gonzo
+Crew,Sidearms,,,1,Paint Grenades,,Drop
+Crew,Sidearms,,,1,Radar Transmitter,,Uncle Al
 Crew,Sidearms,,,1,Rocket-Propelled Grenade,,Gonzo
+Crew,Sidearms,,,1,Sawed-Off Shotgun,,Gonzo
+Crew,Sidearms,,,1,Thermite Grenades,,Crew
+Crew,Sidearms,,,1,Toaster,,Strike
